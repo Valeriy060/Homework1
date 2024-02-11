@@ -4,11 +4,11 @@ alert (a);
 a = 20;
 alert (a);
 // задание 2
-let firstiphone = 2007;
-alert (`год выпуска первого айфона ${firstiphone}`); 
+let firstIphone = 2007;
+alert (`год выпуска первого айфона ${firstIphone}`); 
 // задание3
-let namelanguagecraetorjs = "Брендан Эйх";
-alert (`имя создателя языка Js ${namelanguagecraetorjs}`);
+let namelanguagejscraetor = "Брендан Эйх";
+alert (`имя создателя языка Js ${namelanguagejscraetor}`);
 // задание4
 let b = 10;
 let c = 2;
