@@ -95,6 +95,18 @@
     background-repeat: no-repeat;
     border-radius: 16px;
 }
+.product__img1:hover{
+    border: 3px solid #44D2FF;
+    cursor: pointer;
+}
+.product__img2:hover{
+    border: 3px solid #44D2FF;
+    cursor: pointer;
+}
+.product__img3:hover{
+    border: 3px solid #44D2FF;
+    cursor: pointer;
+}
 
 .product__catalog{
     display: flex;
