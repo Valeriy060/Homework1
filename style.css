@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+    padding-left: calc(50% - 600px);
+    padding-right: calc(50% - 600px);
+    padding-top: 217px;
+}
+
+.header{
+    background-image: url(Bgi.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1024px;
+}
+
+.top__title{
+    
+    font-family: "Montserrat";
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 78px;
+    color: #fff;
+    width: 788.78px;
+    height: 125.01px;
+    padding-bottom: 32px;
+
+}
+
+.top__text{
+    font-family: "Montserrat";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #fff;
+    padding-bottom: 44px;
+    width: 481px;
+    height: 64px;
+}
+
+.top__btn{
+    width: 234.06px;
+    height: 48.6px;
+    background-color: #9C0332;
+    color: #fff;
+    border-radius: 30px;
+    border: 1px solid #9C0332;
+
+}
+.top__btn:hover{
+    cursor: pointer;
+    background-color: green;
+}
+
+.product__box{
+    height: 556px;
+    background-color: #000915;
+
+}
+
+.product__link{
+   
+    text-decoration: none;
+}
+
+.product{
+    height: 300px;
+    width: 379px;
+
+}
+
+.product__img1{
+    background-image: url(Game1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+}
+
+.product__img2{
+    background-image: url(Game2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+}
+
+.product__img3{
+    background-image: url(Game3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+}
+
+.product__catalog{
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.product__text{
+    font-family: "Montserrat";
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding-left: 32px;
+    padding-top: 236px;
+
+}
+
+.product__text:hover{
+    cursor: pointer;
+    color: green;
+}
