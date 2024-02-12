@@ -7,8 +7,8 @@ alert (a);
 let firstIphone = 2007;
 alert (`год выпуска первого айфона ${firstIphone}`); 
 // задание3
-let namelanguagejscraetor = "Брендан Эйх";
-alert (`имя создателя языка Js ${namelanguagejscraetor}`);
+let jsCraetor = "Брендан Эйх";
+alert (`имя создателя языка Js ${jsCraetor}`);
 // задание4
 let b = 10;
 let c = 2;
@@ -16,6 +16,7 @@ let sum = b + c;
 let dif = b - c;
 let mult = b * c;
 let div = b / c;
+result1 = b / c; 
 alert (`сумма ${sum}\nразность ${dif}\nпроизведение ${mult}\nделение ${div}`);
 // задание5
 let f = 2;
@@ -25,7 +26,7 @@ alert (`результат возведения в степени ${result}`);
 // задание6
 let d = 9;
 let j = 2;
-alert (`результат деления ${d / j}`);
+alert (`находим остаток от деления ${d / j}`);
 // задание7
 let num = 1;
 num += 5;
